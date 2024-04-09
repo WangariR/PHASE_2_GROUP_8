@@ -46,29 +46,28 @@ RESULTS:
 
 Expanding the living area correlates with a rise in property price, with each additional square foot contributing to an increase of USD 279 in home value.
 
-image
 
-image
+
+
 
 Homes with a greater number of bedrooms tend to command higher prices, particularly within the preferred range of 3 to 6 bedrooms. Additionally, the inclusion of an extra bathroom can lead to a substantial increase in property value, amounting to USD 121,794.
 
-image
+
 
 The addition of more bathrooms positively impacts house prices, with each extra bathroom potentially raising the price by USD 250,000.
 
-image
+
 
 Enhancing the upkeep of a house can enhance its value, potentially resulting in a USD 21,460 increase in property worth.
 
-image
+
 
 Homes constructed around the year 1930 and those built in the 21st century tend to command higher sale prices.
 
-image
+
 
 The dimensions of the living room, the number of bathrooms, and bedrooms exert the greatest influence on home values, whereas the construction year of the house and its overall condition have comparatively minimal impact on pricing.
 
-image
 
 CONCLUSION:
 
@@ -106,4 +105,4 @@ Column Description - https://github.com/learn-co-curriculum/dsc-phase-2-project-
 
 TABLEAU - https://public.tableau.com/views/KingCountySalesDashboard-Group8/KingCountySalesdashboard?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
-REPO STRUCTURE:
+
